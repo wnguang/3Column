@@ -1,0 +1,148 @@
+h1 {
+  font-family: 'Big Shoulders Display', cursive;
+  color: #ffffff;
+  font-weight: 700;
+}
+
+p {
+  font-family: 'Lexend Deca', sans-serif;
+  color: #f2f2f2;
+  font-weight: 400;
+  font-size: 15px;
+}
+
+body {
+  line-height: 2;
+}
+
+.Sedans {
+  background-color: #e38826;
+  display: inline-block;
+  position: absolute;
+  left: 263px;
+  top: 100px;
+  width: 200px;
+  height: 423px;
+  padding: 50px 50px 30px 50px;
+}
+
+.button1 {
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  border-radius: 100px;
+  width: 130px;
+  height: 30px;
+  color: #e38826;
+  font-family: 'Lexend Deca', sans-serif;
+  font-size: 15px;
+  font-weight: 100;
+  padding: 10px;
+  background-color: #FFFFFF;
+  text-decoration: none;
+  display: inline-block;
+  position: absolute;
+  bottom: 30px;
+  left: 50px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.button1:hover {
+  border: solid WHITE 2px;
+  background: none;
+  color: white;
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  border-radius: 100px;
+  width: 128px;
+  height: 28px;
+  padding: 10px text-decoration: none;
+}
+
+.SUVs {
+  background-color: #006970;
+  display: inline-block;
+  position: absolute;
+  left: 563px;
+  top: 100px;
+  width: 200px;
+  height: 423px;
+  padding: 50px 50px 30px 50px;
+}
+
+.button2 {
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  border-radius: 100px;
+  width: 130px;
+  height: 30px;
+  color: #006970;
+  font-family: 'Lexend Deca', sans-serif;
+  font-size: 15px;
+  font-weight: 100;
+  padding: 10px;
+  background-color: #FFFFFF;
+  text-decoration: none;
+  display: inline-block;
+  position: absolute;
+  bottom: 30px;
+  left: 50px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.button2:hover {
+  border: solid WHITE 2px;
+  background: none;
+  color: white;
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  border-radius: 100px;
+  width: 128px;
+  height: 28px;
+  padding: 10px text-decoration: none;
+}
+
+.Luxury {
+  background-color: #004241;
+  display: inline-block;
+  position: absolute;
+  width: 200px;
+  height: 423px;
+  top: 100px;
+  left: 863px;
+  padding: 50px 50px 30px 50px;
+}
+
+.button3 {
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  border-radius: 100px;
+  width: 130px;
+  height: 30px;
+  color: #004241;
+  font-family: 'Lexend Deca', sans-serif;
+  font-size: 15px;
+  font-weight: 100;
+  padding: 10px;
+  background-color: #FFFFFF;
+  text-decoration: none;
+  display: inline-block;
+  position: absolute;
+  bottom: 30px;
+  left: 50px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.button3:hover {
+  border: solid WHITE 2px;
+  background: none;
+  color: white;
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  border-radius: 100px;
+  width: 128px;
+  height: 28px;
+  padding: 10px text-decoration: none;
+}
